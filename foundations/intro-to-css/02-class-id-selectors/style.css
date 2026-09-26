@@ -1,21 +1,18 @@
-.number-one,
-.number-three,
-.number-five {
+.odd {
     background-color: #e0a0a0;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#number-two {
+#two {
     color: hsl(240, 100%, 50%);
     font-size: 36px;
 }
 
-.number-three {
+.adjust-font-size {
     font-size: 24px;
 }
 
-#number-four {
+#four {
     background-color: #3bf08c;
-    font-size: 24px;
     font-weight: bold;
 }
